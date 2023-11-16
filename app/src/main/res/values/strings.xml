@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WearableRecyclerView</string>
+    <string name="menu_item_icon">menu item icon</string>
+</resources>
